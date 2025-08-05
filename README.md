@@ -1,7 +1,7 @@
-# nao-demonstration
+# pepper-demonstration
 Applictions for Choregraphe to show demonstration applications.
 Licenced under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
-Author and ownership: Fachhochschule Kiel, University of Appliced Sciences, Kiel / Germany
+Author and ownership: HAW Kiel (former Fachhochschule Kiel), University of Appliced Sciences, Kiel / Germany
 
 ## Install Instructions
 Copy application (using choregraphe) on the robot.
