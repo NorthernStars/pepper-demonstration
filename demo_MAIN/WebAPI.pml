@@ -83,10 +83,8 @@
         <File name="touch" src="html/touch.js" />
         <File name="quiz" src="html/img/quiz.png" />
         <File name="wait" src="html/img/wait.gif" />
-        <File name="wissjahr-logo" src="html/img/wissjahr-logo.png" />
         <File name="settings" src="html/img/settings.png" />
         <File name="logo" src="html/img/logo.png" />
-        <File name="uni-logo" src="html/img/uni-logo.png" />
         <File name="begin_reco" src="sounds/begin_reco.wav" />
         <File name="mask" src="html/img/mask.png" />
         <File name="picture" src="html/img/picture.png" />
@@ -1547,8 +1545,7 @@
         <File name="verdanab" src="html/fonts/verdanab.ttf" />
         <File name="rabbit" src="html/img/rabbit.png" />
         <File name="sailor" src="html/img/sailor.png" />
-        <File name="fh-Logo" src="html/img/fh-Logo.png" />
-        <File name="fh-logo-alt" src="html/img/fh-logo-alt.jpg" />
+        <File name="fh-logo" src="html/img/fh-logo.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
