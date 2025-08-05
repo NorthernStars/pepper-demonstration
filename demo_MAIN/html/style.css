@@ -38,6 +38,10 @@ table.content-table{
 	width: 33%;
 }
 
+.content-table td button{
+	height: 230x;
+}
+
 h2{
 	font-weight: bold;
 }
