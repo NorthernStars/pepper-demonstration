@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Verdana';
+  src: url('/fonts/verdanab.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Verdana';
+  src: url('fonts/verdanab.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body{
+	background-color: #fafafaf;
+	font-family: "Verdana", Verdana, sans-serif;
+	color: #7f7f7f;
+}
+
+.content-container{
+	background-color: #ffffff;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+	
+	padding: 10px;
+	height: 100%;
+	width: 100%;
+}
+
+table{
+	border-spacing: 10px;
+	border-collapse: separate;
+}
+table.content-table{
+	width: 100%;
+}
+.content-table td{
+	width: 33%;
+}
+
+h2{
+	font-weight: bold;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.padding-custom{
+	width: 20px;
+	display: inline-block;
+}
+.wissjahr-logo{
+	position: fixed;
+	bottom: 25px;
+	right: 25px;
+}
+
+button{
+	background: none;
+	border: 0;
+}
+.btn{
+	font-family: "Verdana", VerdanaW, sans-serif;
+	font-size: 16px;
+	font-weight: 400;	
+	text-transform: uppercase;
+	-webkit-border-radius: 0px 0px 15px 0px;
+	-moz-border-radius: 0px 0px 15px 0px;
+	-ms-border-radius: 0px 0px 15px 0px;
+	border-radius: 0px 0px 15px 0px;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+	transition: 0.5s;
+}
+
+.btn:hover, .btn:active, .btn:focus {
+	box-shadow: none !important;
+	outline: none !important;
+	-webkit-border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	-ms-border-radius: 0px 0px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+	transition: 0.5s;
+}
+
+.btn-primary {
+	background: rgba(0, 48, 93, 0.8);
+	color: #fff;
+	border: 2px solid rgba(2, 48, 93, 0.8);
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+	background: rgba(0, 48, 93, 1.0) !important;
+	border-color: rgba(0, 48, 93, 1.0) !important;
+}
+
+
+
