@@ -56,6 +56,7 @@
         <File name="check" src="html/img/check.png" />
         <File name="camera1" src="behavior_1/camera1.ogg" />
         <File name="verdanab" src="html/fonts/verdanab.ttf" />
+        <File name="wissjahr-logoa-lt" src="html/img/wissjahr-logoa-lt.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />

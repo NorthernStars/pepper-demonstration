@@ -10,6 +10,7 @@
         <File name="nikon" src="html/nikon.jpg" />
         <File name="pepper" src="html/pepper.html" />
         <File name="fh-logo" src="html/fh-logo.png" />
+        <File name="fh-logo-alt" src="html/fh-logo-alt.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />

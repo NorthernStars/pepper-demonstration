@@ -2,7 +2,7 @@
   "title": "Fachhochschule Kiel",
   "description": "",
   "settings": {
-  	"selectable-num-of-questions": [4, 5, 6],
+  	"selectable-num-of-questions": [3, 4, 5, 6],
   	"speech-speed": 90,
   	"speech-pitch": 95,
   	"replacements": {}
@@ -25,10 +25,10 @@
 			  "correct-choises": ["Pepper"]
 			},
 			{
-			  "text": "Wie alt bin ich?",
-			  "response-text": "Roboter werden ja nicht gebohren wie Menschen. Ich wurde 2016 gebaut, bin also etwa drei Jahre alt. ",
-			  "choises": ["1 Jahr", "2 Jahre", "3 Jahre"],
-			  "correct-choises": ["3 Jahre"]
+			  "text": "Wann wurde ich gebohren?",
+			  "response-text": "Roboter werden ja nicht gebohren wie Menschen. Ich wurde 2016 gebaut",
+			  "choises": ["20000", "2008", "2016", "2024"],
+			  "correct-choises": ["2016"]
 			},
 			{
 			  "text": "Haben Roboter ein Portmonee?",
@@ -59,6 +59,36 @@
 			  "response-text": "Auch wenn es manchmal so wirkt, ich denke nicht. Alles was ich mache wurde von einem Menschen so programmiert.",
 			  "choises": ["Ja", "Nein"],
 			  "correct-choises": ["Nein"]
+			},
+			{
+			  "text": "Was mache ich, wenn mir langweilig ist?",
+			  "response-text": "Wenn mir langweilig ist, rechne ich alle Primzahlen bis 1 Milliarde durch. Das macht Spaß! Für einen Roboter.",
+			  "choises": ["Ich zähle Primzahlen", "Ich mache ein Nickerchen", "Ich schaue Netflix"],
+			  "correct-choises": ["Ich zähle Primzahlen"]
+			},
+			{
+			  "text": "Was passiert, wenn ich Wasser trinke?",
+			  "response-text": "Dann bekomme ich einen Kurzschluss! Wasser ist nichts für mich. Ich trinke lieber Datenpakete.",
+			  "choises": ["Ich werde schneller", "Ich bekomme einen Kurzschluss", "Ich mache Blubberblasen"],
+			  "correct-choises": ["Ich bekomme einen Kurzschluss"]
+			},
+			{
+			  "text": "Warum tanzen Roboter so komisch?",
+			  "response-text": "Weil wir keine Hüften haben! Aber dafür immer im Takt – fast immer.",
+			  "choises": ["Weil sie keine Hüften haben", "Weil sie schüchtern sind", "Weil sie lieber singen"],
+			  "correct-choises": ["Weil sie keine Hüften haben"]
+			},
+			{
+			  "text": "Womit putzen Roboter ihre Zähne?",
+			  "response-text": "Ich habe keine Zähne. Aber wenn ich welche hätte, würde ich sie mit einem Laserschrubber putzen!",
+			  "choises": ["Mit Zahnpasta", "Mit Laserschrubber", "Mit Öl"],
+			  "correct-choises": ["Mit Laserschrubber"]
+			},
+			{
+			  "text": "Was ist mein Lieblingssport?",
+			  "response-text": "Steckdosen-Weitsprung! Leider verliere ich meistens gegen den Staubsaugerroboter.",
+			  "choises": ["Steckdosen-Weitsprung", "WLAN-Surfen", "Kabelsalat-Entwirren"],
+			  "correct-choises": ["Steckdosen-Weitsprung"]
 			}
 
 		]
@@ -108,6 +138,36 @@
 			  "response-text": "Der erste Streckenabschnitt der Londoner Ubahn wurde schon im Jahr 1863 eröffnet und ist inzwischen auch die längste U-Bahn der Welt.",
 			  "choises": ["Paris", "Moskau", "London", "Chicago"],
 			  "correct-choises": ["London"]
+			},
+			{
+			  "text": "Wie viele Planeten hat unser Sonnensystem?",
+			  "response-text": "Seit Pluto 2006 der Planetenstatus aberkannt wurde, zählen nur noch acht Himmelskörper zu den offiziellen Planeten.",
+			  "choises": ["7", "8", "9", "10"],
+			  "correct-choises": ["8"]
+			},
+			{
+			  "text": "Welcher Vogel kann rückwärts fliegen?",
+			  "response-text": "Der Kolibri ist der einzige Vogel, der auch rückwärts fliegen kann – und dabei noch in der Luft stehen bleibt.",
+			  "choises": ["Spatz", "Kolibri", "Papagei", "Amsel"],
+			  "correct-choises": ["Kolibri"]
+			},
+			{
+			  "text": "Was ist die Hauptstadt von Kanada?",
+			  "response-text": "Nicht Toronto, sondern Ottawa ist die Hauptstadt Kanadas. Dort sitzt die Regierung – mitten im Schnee.",
+			  "choises": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+			  "correct-choises": ["Ottawa"]
+			},
+			{
+			  "text": "Was ist das kleinste Land der Welt?",
+			  "response-text": "Der Vatikan ist nicht nur das kleinste Land, sondern auch Sitz des Papstes – auf nur etwa 0,44 Quadratkilometern.",
+			  "choises": ["Monaco", "San Marino", "Vatikan", "Andorra"],
+			  "correct-choises": ["Vatikan"]
+			},
+			{
+			  "text": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+			  "response-text": "Mit allen Weisheitszähnen kommt ein Erwachsener normalerweise auf 32 Zähne – wenn alle durchbrechen.",
+			  "choises": ["28", "30", "32", "34"],
+			  "correct-choises": ["32"]
 			}
 		]
 	}
