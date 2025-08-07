@@ -1546,6 +1546,7 @@
         <File name="rabbit" src="html/img/rabbit.png" />
         <File name="sailor" src="html/img/sailor.png" />
         <File name="fh-logo" src="html/img/fh-logo.png" />
+        <File name="meerkat" src="html/img/meerkat.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
