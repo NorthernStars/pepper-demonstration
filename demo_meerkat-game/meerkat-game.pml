@@ -103,6 +103,9 @@
         <File name="erdmeanchenEnde" src="html/en/movie/erdmeanchenEnde.jpg" />
         <File name="smiley" src="html/en/movie/smiley.jpeg" />
         <File name="smiley" src="html/en/smiley.html" />
+        <File name="welcome" src="html/en/welcome.html" />
+        <File name="welcome" src="html/de/welcome.html" />
+        <File name="welcome" src="html/welcome.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
