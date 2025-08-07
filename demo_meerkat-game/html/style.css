@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'DIN Pro';
+  src: url('/fonts/DINPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DIN Pro';
+  src: url('fonts/DINPro-Black.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body{
+	background-color: #ffffff;
+	font-family: "DIN Pro", Arial, sans-serif;
+	color: #7f7f7f;
+}
+
+table{
+	border-spacing: 10px;
+	border-collapse: separate;
+}
+
+
+h2{
+	font-weight: bold;
+}
