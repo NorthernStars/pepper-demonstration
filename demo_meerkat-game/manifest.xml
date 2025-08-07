@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <package uuid="meerkat-game-146782" version="0.0.1">
  <names>
+  <name lang="de_DE">demo_meerkat-game</name>
   <name lang="en_US">Meerkat-Game</name>
  </names>
  <supportedLanguages>
