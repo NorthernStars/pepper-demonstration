@@ -2,7 +2,7 @@
   "title": "Fachhochschule Kiel",
   "description": "",
   "settings": {
-  	"selectable-num-of-questions": [3, 4, 5, 6],
+  	"selectable-num-of-questions": [4, 5, 6],
   	"speech-speed": 90,
   	"speech-pitch": 95,
   	"replacements": {}
